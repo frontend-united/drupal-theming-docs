@@ -1,4 +1,6 @@
 {
+    "title": "Guide to Drupal Development",
+    "description": "A guide to creating some wickedly amazing Drupal sites, using the best tools and practices available to us.",
     "links": {
         "home": "https://github.com/frontend-united",
         "about": "https://github.com/frontend-united",

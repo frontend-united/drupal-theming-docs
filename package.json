@@ -1,0 +1,13 @@
+{
+    "name": "drupal-theming",
+    "version": "0.1.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drupal-themers/documentation.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+}

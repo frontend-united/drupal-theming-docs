@@ -1,4 +1,6 @@
-What this book contains
+State of Drupal Theming
 =======================
+
+Drupal theming
 
 

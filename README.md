@@ -6,7 +6,7 @@ Drupal theming has changed dramatically over the years. As technology has change
 
 ## Where we began
 
-The maintainers of [Zen](https://drupal.org/project/zen), [Omega 4](https://drupal.org/project/omega), [Aurora](https://drupal.org/project/aurora) and [Mothership](https://drupal.org/project/mothership) all realzied that we were working concurrently on similar work. This was not taking advantage of the power of open source, so we wanted to collaborate together to ensure a more complete front end Drupal guide. This originally started with the development of the [Magic Module](https://drupal.org/project/magic), to hold similar frontend code in a single contributed module.
+The maintainers of [Zen](https://drupal.org/project/zen), [Omega 4](https://drupal.org/project/omega), [Aurora](https://drupal.org/project/aurora) and [Mothership](https://drupal.org/project/mothership) all realized that we were working concurrently on similar work. This was not taking advantage of the power of open source, so we wanted to collaborate together to ensure a more complete front end Drupal guide. This originally started with the development of the [Magic Module](https://drupal.org/project/magic), to hold similar frontend code in a single contributed module.
 
 ## What you will find here
 
